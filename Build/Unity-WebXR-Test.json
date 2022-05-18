@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "AR WebXR Test",
+"productVersion": "0.1",
+"dataUrl": "Unity-WebXR-Test.data.unityweb",
+"wasmCodeUrl": "Unity-WebXR-Test.wasm.code.unityweb",
+"wasmFrameworkUrl": "Unity-WebXR-Test.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.4f1"
+}
